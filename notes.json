@@ -1,0 +1,17 @@
+[
+  {
+    "category": "🎬 Фільми",
+    "title": "Комедії на вечір",
+    "text": "Скажене весілля\nСкажене весілля 2\nСкажене весілля 3\nСкажене весілля 4"
+  },
+  {
+    "category": "🎬 Фільми",
+    "title": "Обов'язково переглянути",
+    "text": "Інтерстеллар \nВтеча з Шоушенку\nАдвокат на лінкольні"
+  },
+  {
+    "category": "🎮 Ігри",
+    "title": "Як відкрити всі фракції в rome total war",
+    "text": "Відкриваємо  \\Rome Total War Gold\\data\\world\\maps\\campaign\\imperial_campaign/descr_strat\nВносимо наступні зміни у файл: \ncampaign imperial_campaign\nplayable\nromans_julii\nromans_brutii\nromans_scipii\negypt\nseleucid\ncarthage\nparthia\ngauls\ngermans\ngreek_cities\nromans_senate\nmacedon\npontus\narmenia\ndacia\nscythia\nspain\nthrace\nnumidia\nbritons\nend\nunlockable\n\nend\nnonplayable\n\nslave\nend"
+  }
+]
